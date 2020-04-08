@@ -1,0 +1,4 @@
+private/*.key
+private/*.crt
+public/*.cer
+node_modules/*

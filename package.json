@@ -1,0 +1,11 @@
+{
+    "name": "simple-webserver",
+    "version": "0.0.1",
+    "main": "main.js",
+    "license": "Apache-2.0",
+    "dependencies": {
+        "express": "^4.17.1",
+        "node-forge": "^0.9.1",
+        "serve-index": "^1.9.1"
+    }
+}
